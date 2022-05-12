@@ -1,0 +1,222 @@
+
+.Fondo{
+    
+    background-image: url("../Imagenes/womens-clothing-store.jpg");
+   
+    
+
+}
+
+.cab{
+
+    float: right;
+    background-color: black;
+}
+
+.Rectan1{
+ 
+    width: 1244px;
+    height: 150px;
+    background:black;
+    position: fixed;
+    left: 380px;
+    bottom: 820px;
+  
+  
+  }
+
+
+.Rectan2{
+ 
+    width: 744px;
+    height: 550px;
+    background:white;
+    position: relative;
+    left: 600px;
+    bottom: -190px;
+  
+  
+  }
+
+
+  .Rectan3{
+ 
+    width: 444px;
+    height: 250px;
+    background:lightpink;
+    position: relative;
+    left: 300px;
+    bottom: 510px;
+  
+  
+  }
+
+.textCab { 
+
+
+    font-family: sans-serif;
+    color: white;
+    position: relative;
+    margin: 0;
+    padding: 0;
+    left: 590px;
+    bottom: 80px;
+    text-decoration: none;
+    font-size: 30px;
+}
+
+#textN{
+    font-family: sans-serif;
+    color: white;
+    padding-top: 100px;
+    padding-left: 40px;
+
+
+}
+
+#textN:hover{
+    color: rgb(202, 101, 202);
+}
+
+#text2N{
+    font-family: sans-serif;
+    color: black;
+    padding-top: 100px;
+    padding-left: 40px;
+    font-size: 25px;
+
+
+}
+
+#ProductTexte{
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+    padding-right: 85px;
+
+
+}
+
+#ProductTexte:hover{
+
+    color: gray;
+   
+
+}
+
+.Rectan4{
+ 
+    width: 444px;
+    height: 550px;
+    background:white;
+    position: relative;
+    left: 100px;
+    bottom: -190px;
+  
+  
+  }
+
+
+.Rectan5{
+ 
+    width: 444px;
+    height: 550px;
+    background:white;
+    position: relative;
+    left: 700px;
+    bottom: 360px;
+  
+  
+  }
+
+.Rectan6{
+ 
+    width: 444px;
+    height: 550px;
+    background:white;
+    position: relative;
+    left: 1250px;
+    bottom: 908px;
+  
+  
+  }
+
+#IMG1{
+
+    height: 450px;
+    margin-left: 40px;
+
+}
+
+#IMG2{
+    height: 450px;
+    margin-left: 50px;
+}
+
+#IMG3{
+    height: 250px;
+    margin-top:90px;
+    margin-left: 80px;
+}
+
+
+
+
+
+#link1{
+    color: white;
+}
+#link2{
+    color: white;
+}
+#link3{
+    color: white;
+}
+#link4{
+    color: white;
+}
+
+
+#link1:hover{
+    color: grey;
+}
+#link2:hover{
+    color: grey;
+}
+#link3:hover{
+    color: grey;
+}
+#link4:hover{
+    color: grey;
+}
+#linkininos{
+    color: grey;
+    font-size: 30px;
+    margin-left: 20px;
+    text-decoration: none;
+}
+#linkininos:hover{
+    color:aliceblue
+}
+
+#logo{
+height: 160px;
+width: 180px;
+
+margin-left: -300px;
+margin-bottom: 0px;
+
+}
+
+
+
+
+
+.carrusel{
+     
+    margin-top: -60px;
+    margin-left: 550px;
+    height: 80px;
+    width: 660px;
+   
+   }
